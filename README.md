@@ -3,10 +3,10 @@
 
 ### Screenshot
 
-![](./assets/images/fullpage.png)
+![](./image/fullpage.png)
 
 ### Links
-- Live Site URL: [Clique e veja online]()
+- Live Site URL: [Clique e veja online](https://patricktav.github.io/bateria-com-teclas/)
 
 
 ### Criado com
